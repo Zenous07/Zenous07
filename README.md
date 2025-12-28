@@ -1,8 +1,6 @@
 # 💫 About Me:
 👨‍💻 About Me<br><br>🔭 I’m currently working on<br>Embedded systems projects (ESP32, STM32), web apps with Next.js, and automation tools.<br><br>👯 I’m looking to collaborate on<br>Open-source projects in embedded systems, web development, and practical AI tools.<br><br>🤝 I’m looking for help with<br>Writing research papers, patent-oriented projects, and scaling real-world systems.<br><br>🌱 I’m currently learning<br>Advanced embedded design, system architecture, and competitive problem-solving.<br><br>💬 Ask me about<br>Microcontrollers, project planning, debugging hardware, or building things from scratch.<br><br>⚡ Fun fact<br>I prefer understanding systems end-to-end over using black-box tools.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenous07&label=Profile%20views&color=0e75b6&style=flat" alt="zenous07" /> </p>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bennettjoshuaa) 
