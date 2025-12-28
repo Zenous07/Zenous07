@@ -1,51 +1,20 @@
-# 💫 About Me
+# 💫 About Me:
+👨‍💻 About Me<br><br>🔭 I’m currently working on<br>Embedded systems projects (ESP32, STM32), web apps with Next.js, and automation tools.<br><br>👯 I’m looking to collaborate on<br>Open-source projects in embedded systems, web development, and practical AI tools.<br><br>🤝 I’m looking for help with<br>Writing research papers, patent-oriented projects, and scaling real-world systems.<br><br>🌱 I’m currently learning<br>Advanced embedded design, system architecture, and competitive problem-solving.<br><br>💬 Ask me about<br>Microcontrollers, project planning, debugging hardware, or building things from scratch.<br><br>⚡ Fun fact<br>I prefer understanding systems end-to-end over using black-box tools.
 
-👨‍💻 **Who I am**  
-Engineering student focused on building real systems that connect hardware, software, and automation.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zenous07&label=Profile%20views&color=0e75b6&style=flat" alt="zenous07" /> </p>
 
-🔭 **Currently working on**  
-Embedded systems (ESP32, STM32), full-stack web apps using Next.js, and workflow automation tools.
 
-👯 **Open to collaborating on**  
-Open-source projects involving embedded systems, web platforms, and applied AI with real-world use cases.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bennettjoshuaa) 
 
-🤝 **Looking for guidance in**  
-Research paper writing, patent-driven projects, and scaling prototypes into reliable systems.
-
-🌱 **Currently learning**  
-Advanced embedded design, system architecture, and disciplined problem-solving.
-
-💬 **Ask me about**  
-Microcontrollers, debugging hardware-software interfaces, project structuring, and building from first principles.
-
-⚡ **Fun fact**  
-I deliberately avoid black-box tools until I understand what’s happening underneath.
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bennettjoshuaa)
-
-## 💻 Tech Stack
-**Languages & Core**  
-C • Python • JavaScript • TypeScript • Bash  
-
-**Web & Backend**  
-Next.js • React • Node.js • TailwindCSS • Appwrite • Prisma  
-
-**Databases**  
-PostgreSQL • MySQL • MongoDB  
-
-**Embedded / Vision**  
-ESP32 • STM32 • OpenCV  
-
-**Dev & Tools**  
-Git • GitHub • Vercel • Netlify • FFmpeg • Notion • Canva  
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Zenous07&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenous07&theme=midnight-purple&hide_border=false&layout=compact)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Zenous07&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zenous07&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
