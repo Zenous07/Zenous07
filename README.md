@@ -200,8 +200,8 @@ Contributed a custom dictionary feature to a 70★ Android EPUB modding tool
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats-eight-gamma-55.vercel.app/api?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-eight-gamma-55.vercel.app/api/top-langs/?username=Zenous07&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Zenous07&theme=midnight-purple&hide_border=false" />
@@ -211,7 +211,6 @@ Contributed a custom dictionary feature to a 70★ Android EPUB modding tool
 
 <p align="center">
   <a href="https://linkedin.com/in/bennettjoshuaa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="mailto:bennettjoshua712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Currently open to entry-level Software Engineer roles — let's build something real (or at least something that compiles).</i></p>
