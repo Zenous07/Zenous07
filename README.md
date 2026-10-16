@@ -167,12 +167,12 @@ Contributed a custom dictionary feature to a 70★ Android EPUB modding tool
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Zenous07/Zenous07/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Zenous07/Zenous07/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Zenous07/Zenous07/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zenous07/Zenous07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zenous07/Zenous07/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Zenous07/Zenous07/output/github-contribution-grid-snake.svg" />
 </picture>
 
-*Note: this eats your contribution graph and needs a small GitHub Action set up in a repo named exactly `Zenous07` — ask me and I'll wire it up.*
+*The snake eats my contribution graph. It regenerates every 12 hours, so feed it commits.*
 
 </details>
 
@@ -211,6 +211,7 @@ Contributed a custom dictionary feature to a 70★ Android EPUB modding tool
 
 <p align="center">
   <a href="https://linkedin.com/in/bennettjoshuaa"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:bennettjoshua712@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Currently open to entry-level Software Engineer roles — let's build something real (or at least something that compiles).</i></p>
